@@ -1,0 +1,7 @@
+name = "CRunik"
+project_dir = "/home/mflavio/workspace/projects/programming_language/Runik/CRunik"
+
+src = ["/src/main.c"]
+
+compiler = "gcc"
+flags = ["-Wall", "-Wextra", "-Werror"]
