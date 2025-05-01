@@ -1,4 +1,4 @@
-name = "CRunik"
+name = "Runik"
 project_dir = "/home/mflavio/workspace/projects/programming_language/Runik/CRunik"
 
 src = ["/src/main.c"]
