@@ -1,7 +1,13 @@
 name = "Runik"
 project_dir = "/home/mflavio/workspace/projects/programming_language/Runik/CRunik"
 
-src = ["/src/main.c", "/src/argument_parser/argv.c", "/src/start/start.c", "/src/start/lexer/lexer.c"]
+src = [
+	"/src/main.c",
+	"/src/argument_parser/argv.c",
+	"/src/start/start.c",
+	"/src/start/lexer/lexer.c",
+	"/src/start/lexer/init_list.c"
+	]
 
 compiler = "gcc"
 flags = ["-Wall", "-Wextra", "-Werror"]

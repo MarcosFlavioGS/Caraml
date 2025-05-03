@@ -10,6 +10,7 @@ SRC =	src/main.c \
 		 src/argument_parser/argv.c \
 		 src/start/start.c \
 		 src/start/lexer/lexer.c \
+		 src/start/lexer/init_list.c \
 		
 all:
 	$(CC) $(FLAGS) $(SRC) -o $(NAME)
