@@ -32,14 +32,14 @@ let map = |f, list| match list {
 
 ## Building
 
-The project uses Prefect (a custom build tool) for managing the C-based implementation:
+The project uses Prefect (a custom build tool) for managing the C-based implementation: [Prefect Repo](https://github.com/MarcosFlavioGS/Prefect.git)
 
 ```bash
 # Build the project
-make
+prefect build
 
-# Run tests
-make test
+# Run 
+prefect run
 ```
 
 ## Status
