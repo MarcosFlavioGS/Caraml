@@ -19,8 +19,7 @@ token_list* lexer(char* filepath) {
 
 	token_lst.tokens[0] = token;
 
-	printf("%s", token_lst.tokens[0].identifier);
-	// TODO: Write the lexer
+	// TODO: Read file into buffer
 
 	result = &token_lst;
 	return result;

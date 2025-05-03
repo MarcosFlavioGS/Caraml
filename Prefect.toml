@@ -1,5 +1,5 @@
-name = "Runik"
-project_dir = "/home/mflavio/workspace/projects/programming_language/Runik/CRunik"
+name = "Caraml"
+project_dir = "/home/mflavio/workspace/projects/programming_language/Caraml/Caraml"
 
 src = [
 	"/src/main.c",

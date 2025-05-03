@@ -33,7 +33,7 @@ typedef struct {
 } token_list;
 
 
-void init_list(token_list* arr);
 token_list* lexer(char* file);
+void init_list(token_list* arr);
 
 #endif // LEXER_H_
