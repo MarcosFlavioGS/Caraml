@@ -1,3 +1,5 @@
+![Caraml](https://github.com/user-attachments/assets/da1296ee-c3df-48c7-9529-e30d60a4c3f4)
+
 # Caraml
 
 Caraml is a work-in-progress interpreted programming language that combines functional programming features with a syntax inspired by OCaml and Rust. It aims to provide a modern, expressive, and type-safe programming experience.
