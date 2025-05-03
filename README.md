@@ -1,4 +1,4 @@
-![Caraml](https://github.com/user-attachments/assets/da1296ee-c3df-48c7-9529-e30d60a4c3f4)
+<img src="https://github.com/user-attachments/assets/da1296ee-c3df-48c7-9529-e30d60a4c3f4" width="200" height="200">
 
 # Caraml
 

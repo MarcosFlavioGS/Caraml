@@ -1,0 +1,21 @@
+# This is a comment
+
+# Type inference
+let num = 42;
+
+# Typing
+let str: string = "Hello World !";
+
+let fun (arg1: number) (arg2: string) {
+	# Print string
+	println "{}" arg2;
+}
+
+let anon_fun = |arg: number| {
+	# Print number
+	println "{}" arg;
+}
+
+fun num str;
+
+anon_fun num;
