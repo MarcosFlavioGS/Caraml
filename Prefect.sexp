@@ -1,0 +1,17 @@
+((name
+  Caraml)
+(project_dir
+  /home/mflavio/workspace/projects/programming_language/Caraml/Caraml)
+(src
+  (
+  /src/main.c
+  /src/start/start.c
+  /src/start/lexer/lexer.c
+  /src/start/lexer/init_list.c
+  /src/argument_parser/argv.c))
+(compiler
+  gcc)
+(flags
+  (-Wall
+    -Wextra
+    -Werror)))
