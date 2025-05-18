@@ -1,6 +1,5 @@
 #include "../include/Caraml.h"
 #include "../include/start.h"
-#include <stdio.h>
 
 int main(int argc, char** argv) {
     if (arg_parse(argc, argv) == FEW_ARGUMENTS) {
